@@ -214,4 +214,5 @@ Don't point this at anything you care about. 🙂
 
 ## License
 
-Personal learning project — no license, use freely as a reference.
+Licensed under the **[Apache License 2.0](LICENSE)** — permissive, use it freely (including as a
+reference or starting point for your own project). Copyright © 2026 Zakaria Bouazza.
